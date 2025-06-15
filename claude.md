@@ -1,3 +1,5 @@
+Adapted from [https://harper.blog/2025/05/08/basic-claude-code/](https://harper.blog/2025/05/08/basic-claude-code/).
+
 # Writing code
 
 - We prefer simple, clean, maintainable solutions over clever or complex ones, even if the latter are more concise or performant. Readability and maintainability are primary concerns.
