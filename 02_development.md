@@ -6,7 +6,7 @@ Use Claude Code for this
 
 ## For each session
 
-1. Read `spec.md`, `prompt_plan.md` and `todo.md`. Identify any prompts / items not marked as completed.
+1. Read `claude.md`, `spec.md`, `prompt_plan.md` and `todo.md`. Identify any prompts / items not marked as completed.
 2. For each incomplete prompt:
     - Double-check if it's truly unfinished (if uncertain, ask for clarification).
     - If you confirm it's already done, skip it.
