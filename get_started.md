@@ -6,7 +6,7 @@ Ask me one question at a time (up to 20 questions) so we can develop a thorough,
 
 Here’s the idea:
 
-<IDEA>
+---IDEA---
 
 ## Create spec
 
@@ -25,7 +25,7 @@ Make sure and separate each prompt section. Use markdown. Each prompt should be 
 
 Spec:
 
-<INSERT SPEC>
+---INSERT SPEC---
 
 * Save `prompt_plan.md` in `/spec`
 
