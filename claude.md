@@ -45,6 +45,6 @@
 - Only write enough code to make the failing test pass
 - Refactor code continuously while ensuring tests still pass
 
-# Specific Technologies
+## Specific Technologies
 
 - Always use the Cloudflare Workers platform (Workers, Workers KV, Workers AI, etc.). If that's not possible, explain why and recommend options before choosing.
