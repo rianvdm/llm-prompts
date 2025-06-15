@@ -2,7 +2,7 @@ Use Claude Code for this
 
 ## Development
 
-`/init` to create `claude.md`. Update regularly. 
+`/init` to create `claude.md`. Read and edit, and add text from `claude.md` in this repo. 
 
 ## For each session
 
