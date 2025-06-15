@@ -1,4 +1,10 @@
-## Active development
+Use Claude Code for this
+
+## Development
+
+`/init` to create `claude.md`. Update regularly. 
+
+## For each session
 
 1. Read `spec.md`, `prompt_plan.md` and todo.md`. Identify any prompts / items not marked as completed.
 2. For each incomplete prompt:
