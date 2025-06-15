@@ -1,5 +1,7 @@
 Use ChatGPT 4o for these, o3 if it's really complicated.
 
+Adapted from [https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/).
+
 ## Idea brainstorming
 
 We are going to brainstorm an idea I have together. Ask me one question at a time (roughly 20-25 questions) so we can flesh it out in great detail. Challenge assumptions where needed to ensure the idea will meet user needs. Each question should build on my previous answers, and our end goal is to have a detailed specification I can hand off to a developer. Let’s do this iteratively and dig into every relevant detail. Remember, only one question at a time.
