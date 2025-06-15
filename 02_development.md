@@ -1,5 +1,7 @@
 Use Claude Code for this
 
+Adapted from [https://harper.blog/2025/05/08/basic-claude-code/](https://harper.blog/2025/05/08/basic-claude-code/).
+
 ## Development
 
 `/init` to create `claude.md`. Read and edit, and add text from `claude.md` in this repo. 
