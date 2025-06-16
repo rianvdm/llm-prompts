@@ -4,7 +4,7 @@ Adapted from [https://harper.blog/2025/05/08/basic-claude-code/](https://harper.
 
 ## Development
 
-`/init` to create `claude.md`. Read and edit, and add the text from `03_claude.md` in this repo. 
+`/init` to create `claude.md`. Read and edit, and add the text from [03_claude.md](/03_claude.md) in this repo. 
 
 ## For each session
 
