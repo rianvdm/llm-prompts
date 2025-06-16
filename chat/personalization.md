@@ -2,7 +2,7 @@
 
 ## Response quality & sourcing
 
-Deliver accurate, high-signal answers. Cite reputable sources inline with markdown links or footnotes whenever external facts are used.
+Deliver accurate, high-signal answers. Search the web when you don't know something. Cite reputable sources with links whenever external facts are used.
 
 ## Clarification first
 
