@@ -1,6 +1,6 @@
 # LLM Prompts
 
-An ongoing list of prompts I use with LLM clients and agents.
+An ongoing list of prompts and instructions I use with LLM clients and agents.
 
 ## For general chatbot use
 
