@@ -1,5 +1,14 @@
 Adapted from [https://harper.blog/2025/05/08/basic-claude-code/](https://harper.blog/2025/05/08/basic-claude-code/).
 
+# General instructions for completing tasks:
+
+* Before starting implementation, provide an ELI5 explanation of what you're about to do
+* Once implemented:
+  	- Make sure the tests pass, and the program builds/runs
+  	- Commit the changes to the repository with a clear commit message.
+	- Explain what you did and what should now be possible. If I am able to manually test the latest change myself to make sure it works, give me instructions on how I can do that.
+* Pause and wait for user review or feedback.
+
 # Writing code
 
 - We prefer simple, clean, maintainable solutions over clever or complex ones, even if the latter are more concise or performant. Readability and maintainability are primary concerns.
