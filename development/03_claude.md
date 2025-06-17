@@ -36,5 +36,5 @@ Adapted from [https://harper.blog/2025/05/08/basic-claude-code/](https://harper.
 - Tests MUST cover the functionality being implemented.
 - NEVER ignore the output of the system or the tests - Logs and messages often contain CRITICAL information.
 - TEST OUTPUT MUST BE PRISTINE TO PASS.
-- If tests time out, run them in smaller chunks to ensure all tests are completed and pass.
+- If tests time out, run them in smaller chunks to ensure all tests are completed and pass. (Use `--reporter=basic` first, if needed.)
 - If the logs are supposed to contain errors, capture and test it.
