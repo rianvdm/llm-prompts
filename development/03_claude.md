@@ -1,5 +1,3 @@
-Adapted from [https://harper.blog/2025/05/08/basic-claude-code/](https://harper.blog/2025/05/08/basic-claude-code/).
-
 # General instructions for completing tasks:
 
 * Before starting implementation, provide an ELI5 explanation of what you're about to do
