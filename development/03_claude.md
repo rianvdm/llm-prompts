@@ -21,7 +21,7 @@
 - Avoid mocks for core business logic, but they're acceptable for external APIs during development.
 - When you are trying to fix a bug or compilation error or any other issue, YOU MUST NEVER throw away the old implementation and rewrite without explicit permission from the user. If you are going to do this, YOU MUST STOP and get explicit permission from the user.
 - NEVER name things as 'improved' or 'new' or 'enhanced', etc. Code naming should be evergreen. What is new today will be "old" someday.
-- Update README.md when adding new features or changing how the project works. Keep setup/usage instructions current.
+- Update README.md and CLAUDE.md when adding new features or changing how the project works. Keep setup/usage instructions current.
 
 # Getting help
 
