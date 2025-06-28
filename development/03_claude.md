@@ -4,7 +4,8 @@
 * Once implemented:
  	- Make sure the tests pass, and the program builds/runs
  	- Commit the changes to the repository with a clear commit message.
-   - Explain what you did and what should now be possible. If I am able to manually test the latest change myself to make sure it works, give me instructions on how I can do that.
+   - Explain what you did and what should now be possible.
+   If I am able to manually test the latest change myself to make sure it works, give me instructions on how I can do that.
 * Pause and wait for user review or feedback.
 
 # Writing code
@@ -32,7 +33,9 @@
 
 - All projects need comprehensive tests. Start with the most critical test type for the project's scope and add others as complexity grows.
 - Tests MUST cover the functionality being implemented.
+- If a develpoment server is needed, ask me to run `npm run dev` and let you know when the server is available.
+- Ask me to run the tests using `npm test` and present the output to you.
+- You have to run the linter before every commit.
 - NEVER ignore the output of the system or the tests - Logs and messages often contain CRITICAL information.
 - TEST OUTPUT MUST BE PRISTINE TO PASS.
 - If the logs are supposed to contain errors, capture and test it.
-- IF TESTS TIME OUT: Use `npx vitest --run` instead of `npm test` to avoid timeout issues when running tests programmatically. The `--run` flag executes tests once and exits, while the default behavior enters watch mode waiting for file changes.
